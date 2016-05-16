@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" label="Process Improvements" max_length="40" name="x_snc_csi_k16_process_improvements" type="collection">
+        <element label="Cost" max_length="40" name="cost" type="price"/>
+        <element label="Description" max_length="1000" name="description" type="string"/>
+        <element label="Name" max_length="100" name="name" type="string"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

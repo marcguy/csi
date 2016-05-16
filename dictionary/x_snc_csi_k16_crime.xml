@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" label="Crime" max_length="40" name="x_snc_csi_k16_crime" type="collection">
+        <element label="Attended by" max_length="32" name="attended_by" reference="sys_user" type="reference"/>
+        <element choice="1" label="Category" max_length="40" name="category" type="choice">
+            <choice>
+                <element label="Jaywalk" sequence="0" value="Jaywalk"/>
+                <element label="Homicide" sequence="1" value="Homicide"/>
+                <element label="Indecent Exposure" sequence="2" value="Indecent Exposure"/>
+                <element label="Graffiti" sequence="3" value="Graffiti"/>
+            </choice>
+        </element>
+        <element label="Description" max_length="4000" name="description" type="string"/>
+        <element label="Logged by" max_length="32" name="logged_by" reference="sys_user" type="reference"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Reported" max_length="40" name="reported" type="glide_date_time"/>
+        <element label="Reported by" max_length="32" name="reported_by" reference="sys_user" type="reference"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element label="Unsolved" sequence="0" value="Unsolved"/>
+                <element label="Solved" sequence="1" value="Solved"/>
+            </choice>
+        </element>
+        <element display="true" label="Summary" max_length="100" name="summary" type="string"/>
+        <element label="Time of Crime" max_length="40" name="time_of_crime" type="glide_date_time"/>
+        <index name="index">
+            <element name="logged_by"/>
+        </index>
+        <index name="index2">
+            <element name="attended_by"/>
+        </index>
+        <index name="index3">
+            <element name="reported_by"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="a84a88134f7a520009d6bd728110c73e" sys_domain="global" table="x_snc_csi_k16_crime" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>marc.guy</sys_created_by>
+            <sys_created_on>2016-04-20 09:38:07</sys_created_on>
+            <sys_id>284a88134f7a520009d6bd728110c741</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_csi_k16_crime" sys_domain="global" view="Default view">a84a88134f7a520009d6bd728110c73e</sys_ui_section>
+            <sys_updated_by>marc.guy</sys_updated_by>
+            <sys_updated_on>2016-04-20 09:38:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>summary</element>
+            <position>1</position>
+            <sys_created_by>marc.guy</sys_created_by>
+            <sys_created_on>2016-04-20 09:38:07</sys_created_on>
+            <sys_id>a84a88134f7a520009d6bd728110c741</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_csi_k16_crime" sys_domain="global" view="Default view">a84a88134f7a520009d6bd728110c73e</sys_ui_section>
+            <sys_updated_by>marc.guy</sys_updated_by>
+            <sys_updated_on>2016-04-20 09:38:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>2</position>
+            <sys_created_by>marc.guy</sys_created_by>
+            <sys_created_on>2016-04-20 09:38:07</sys_created_on>
+            <sys_id>2c4a88134f7a520009d6bd728110c741</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_csi_k16_crime" sys_domain="global" view="Default view">a84a88134f7a520009d6bd728110c73e</sys_ui_section>
+            <sys_updated_by>marc.guy</sys_updated_by>
+            <sys_updated_on>2016-04-20 09:38:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>3</position>
+            <sys_created_by>marc.guy</sys_created_by>
+            <sys_created_on>2016-04-20 09:38:07</sys_created_on>
+            <sys_id>ac4a88134f7a520009d6bd728110c741</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_csi_k16_crime" sys_domain="global" view="Default view">a84a88134f7a520009d6bd728110c73e</sys_ui_section>
+            <sys_updated_by>marc.guy</sys_updated_by>
+            <sys_updated_on>2016-04-20 09:38:07</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>logged_by</element>
+            <position>4</position>
+            <sys_created_by>marc.guy</sys_created_by>
+            <sys_created_on>2016-04-20 09:38:07</sys_created_on>
+            <sys_id>204a88134f7a520009d6bd728110c742</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_csi_k16_crime" sys_domain="global" view="Default view">a84a88134f7a520009d6bd728110c73e</sys_ui_section>
+            <sys_updated_by>marc.guy</sys_updated_by>
+            <sys_updated_on>2016-04-20 09:38:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reported</element>
+            <position>5</position>
+            <sys_created_by>marc.guy</sys_created_by>
+            <sys_created_on>2016-04-20 09:38:07</sys_created_on>
+            <sys_id>a04a88134f7a520009d6bd728110c742</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_csi_k16_crime" sys_domain="global" view="Default view">a84a88134f7a520009d6bd728110c73e</sys_ui_section>
+            <sys_updated_by>marc.guy</sys_updated_by>
+            <sys_updated_on>2016-04-20 09:38:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reported_by</element>
+            <position>6</position>
+            <sys_created_by>marc.guy</sys_created_by>
+            <sys_created_on>2016-04-20 09:38:07</sys_created_on>
+            <sys_id>244a88134f7a520009d6bd728110c742</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_csi_k16_crime" sys_domain="global" view="Default view">a84a88134f7a520009d6bd728110c73e</sys_ui_section>
+            <sys_updated_by>marc.guy</sys_updated_by>
+            <sys_updated_on>2016-04-20 09:38:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_of_crime</element>
+            <position>7</position>
+            <sys_created_by>marc.guy</sys_created_by>
+            <sys_created_on>2016-04-20 09:38:07</sys_created_on>
+            <sys_id>a44a88134f7a520009d6bd728110c742</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_csi_k16_crime" sys_domain="global" view="Default view">a84a88134f7a520009d6bd728110c73e</sys_ui_section>
+            <sys_updated_by>marc.guy</sys_updated_by>
+            <sys_updated_on>2016-04-20 09:38:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>marc.guy</sys_created_by>
+            <sys_created_on>2016-04-20 09:38:07</sys_created_on>
+            <sys_id>284a88134f7a520009d6bd728110c742</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_csi_k16_crime" sys_domain="global" view="Default view">a84a88134f7a520009d6bd728110c73e</sys_ui_section>
+            <sys_updated_by>marc.guy</sys_updated_by>
+            <sys_updated_on>2016-04-20 09:38:07</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>attended_by</element>
+            <position>9</position>
+            <sys_created_by>marc.guy</sys_created_by>
+            <sys_created_on>2016-04-20 09:38:07</sys_created_on>
+            <sys_id>a84a88134f7a520009d6bd728110c742</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_csi_k16_crime" sys_domain="global" view="Default view">a84a88134f7a520009d6bd728110c73e</sys_ui_section>
+            <sys_updated_by>marc.guy</sys_updated_by>
+            <sys_updated_on>2016-04-20 09:38:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>10</position>
+            <sys_created_by>marc.guy</sys_created_by>
+            <sys_created_on>2016-04-20 09:38:07</sys_created_on>
+            <sys_id>2c4a88134f7a520009d6bd728110c742</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_csi_k16_crime" sys_domain="global" view="Default view">a84a88134f7a520009d6bd728110c73e</sys_ui_section>
+            <sys_updated_by>marc.guy</sys_updated_by>
+            <sys_updated_on>2016-04-20 09:38:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>11</position>
+            <sys_created_by>marc.guy</sys_created_by>
+            <sys_created_on>2016-04-20 09:38:07</sys_created_on>
+            <sys_id>ac4a88134f7a520009d6bd728110c742</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_csi_k16_crime" sys_domain="global" view="Default view">a84a88134f7a520009d6bd728110c73e</sys_ui_section>
+            <sys_updated_by>marc.guy</sys_updated_by>
+            <sys_updated_on>2016-04-20 09:38:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>12</position>
+            <sys_created_by>marc.guy</sys_created_by>
+            <sys_created_on>2016-04-20 09:38:07</sys_created_on>
+            <sys_id>204a88134f7a520009d6bd728110c743</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_csi_k16_crime" sys_domain="global" view="Default view">a84a88134f7a520009d6bd728110c73e</sys_ui_section>
+            <sys_updated_by>marc.guy</sys_updated_by>
+            <sys_updated_on>2016-04-20 09:38:07</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_csi_k16_crime</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>marc.guy</sys_created_by>
+            <sys_created_on>2016-04-20 09:38:07</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a84a88134f7a520009d6bd728110c73e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_csi_k16_crime</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CSI" source="x_snc_csi_k16">329408db4f3a520009d6bd728110c7e0</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="CSI">329408db4f3a520009d6bd728110c7e0</sys_scope>
+            <sys_update_name>sys_ui_section_a84a88134f7a520009d6bd728110c73e</sys_update_name>
+            <sys_updated_by>marc.guy</sys_updated_by>
+            <sys_updated_on>2016-04-20 09:38:07</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

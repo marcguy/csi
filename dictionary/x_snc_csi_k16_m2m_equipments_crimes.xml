@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Csi K16 M2m Equipments Crimes" max_length="40" name="x_snc_csi_k16_m2m_equipments_crimes" type="collection">
+        <element label="Crime" max_length="32" name="crime" reference="x_snc_csi_k16_crime" type="reference"/>
+        <element label="Equipment" max_length="32" name="equipment" reference="x_snc_csi_k16_equipment" type="reference"/>
+        <index name="index">
+            <element name="equipment"/>
+        </index>
+        <index name="index2">
+            <element name="crime"/>
+        </index>
+    </element>
+</database>
